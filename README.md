@@ -35,5 +35,7 @@ Just follow the instructions of the orginal im too lazy to type allat
 ![demo](demo.png)
 Then hit p to run 
 
+oh and u need to have view results available for all the races
+
 # TODO
 Too much to list rn.
