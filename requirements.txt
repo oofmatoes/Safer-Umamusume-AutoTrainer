@@ -1,0 +1,9 @@
+numpy==2.3.2
+opencv_contrib_python==4.10.0.84
+opencv_python==4.12.0.88
+opencv_python_headless==4.12.0.88
+paddleocr==3.1.0
+Pillow==11.3.0
+pyautogui==0.9.54
+pynput==1.8.1
+raylib==5.5.0.2

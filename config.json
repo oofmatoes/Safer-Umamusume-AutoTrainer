@@ -1,0 +1,16 @@
+{
+  "priority_stat": ["spd", "sta", "wit", "pwr", "guts"],
+  "minimum_mood": "GREAT",
+  "maximum_failure": 10,
+  "prioritize_g1_race": true,
+  "skill_point_cap": 400,
+  "enable_skill_point_check": true,
+  "min_support": 3,
+  "stat_caps": {
+  "spd": 1100,
+  "sta": 1100,
+  "pwr": 600,
+  "guts": 600,
+  "wit": 600
+  }
+}
