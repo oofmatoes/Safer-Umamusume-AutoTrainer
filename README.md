@@ -22,7 +22,7 @@ Any works but google play games beta is officially supported by cygames (And wha
 https://play.google.com/googleplaygames/
 
 # What can this do
-Not much for now. Can Fully automate a run in theory but can only reach ura with very easy careers (daiwa)\
+Not much for now. Can Fully automate a run in theory but can only beat ura with very easy careers (daiwa)\
 Will fail very early on the harder careers\
 Basically it works but plays very badly for now. No promises on when it will be good.\
 Usable if you just wanna grind monies/sparks tho
