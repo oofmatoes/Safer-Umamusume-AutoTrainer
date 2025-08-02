@@ -6,6 +6,7 @@ import random
 import math
 import pyautogui
 from PIL import ImageGrab
+import os
 
 overlay = Overlay()
 lastTurnText = ""
@@ -157,23 +158,28 @@ def mainLoop():
             trainingOptions = ["Speed", "Stamina", "Power", "Wit"]
             buttonFriendCounts = {}
             
+            yearTopLeft, yearBottomRight = overlay.getRectangle("YEAR_REGION")
+            yearCords = getTextCords(yearTopLeft, yearBottomRight)
+            isSeniorYear = any("Senior" in text for text in yearCords.keys())
+            
             for option in trainingOptions:
                 result = findBottomMost(topLeft, bottomRight, option)
                 if result:
                     _, x, y = result
                     moveCursor(int(x), int(y))
                     time.sleep(1)
-                    friendCount = friendCheck(supportTopLeft, supportBottomRight, option)
+                    friendCount = friendCheck(supportTopLeft, supportBottomRight, option, isSeniorYear)
                     buttonFriendCounts[option] = friendCount
                 else:
                     buttonFriendCounts[option] = 0
             
             currentEnergy = overlay.getEnergyPercent()
             
-            if currentEnergy > 90:
-                validOptions = {option: count for option, count in buttonFriendCounts.items() if option != "Wit"}
-            else:
-                validOptions = buttonFriendCounts
+            validOptions = buttonFriendCounts.copy()
+            
+            if currentEnergy > 90 and "Wit" in validOptions:
+                # dont pick wit on full energy unless its really good
+                validOptions["Wit"] = max(0, validOptions["Wit"] - 1)
             
             if not validOptions:
                 bestButton = "Wit"

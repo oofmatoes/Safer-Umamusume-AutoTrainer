@@ -138,11 +138,10 @@ def deduplicatePositions(positions, minDistance=30):
     
     return uniquePositions
 
-def friendCheck(topLeft, bottomRight, currentTrainingType=None, threshold=0.86):
+def friendCheck(topLeft, bottomRight, currentTrainingType=None, isSeniorYear=False, threshold=0.86):
     supportsFolder = "assets\\supports"
     
     if not os.path.exists(supportsFolder):
-        print(f"Supports folder not found: {supportsFolder}")
         return 0
     
     allPositions = []
@@ -162,7 +161,7 @@ def friendCheck(topLeft, bottomRight, currentTrainingType=None, threshold=0.86):
                     filenameLower = filename.lower()
                     trainingTypeLower = currentTrainingType.lower()
                     
-                    if filenameLower.endswith(f"_{trainingTypeLower}.png"):
+                    if filenameLower.endswith(f"_{trainingTypeLower}.png") and isSeniorYear:
                         totalScore += 2
                     else:
                         totalScore += 1
@@ -192,10 +191,11 @@ def friendCheck(topLeft, bottomRight, currentTrainingType=None, threshold=0.86):
         uniqueMatchingPositions = deduplicatePositions([pos for i, pos in enumerate(allPositions) if i < matchingTypeCount])
         uniqueNonMatchingPositions = deduplicatePositions([pos for i, pos in enumerate(allPositions) if i >= matchingTypeCount])
         
-        finalScore = len(uniqueMatchingPositions) * 2 + len(uniqueNonMatchingPositions)
-        print(f"Friends found for {currentTrainingType}: {len(uniquePositions)} total ({len(uniqueMatchingPositions)} matching type x2, {len(uniqueNonMatchingPositions)} others x1) = {finalScore} points")
+        if isSeniorYear:
+            finalScore = len(uniqueMatchingPositions) * 2 + len(uniqueNonMatchingPositions)
+        else:
+            finalScore = len(uniquePositions)
         return finalScore
     else:
         friendCount = len(uniquePositions)
-        print(f"Friends found: {friendCount}")
         return friendCount
