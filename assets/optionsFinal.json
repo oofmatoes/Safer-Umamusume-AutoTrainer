@@ -1,0 +1,1799 @@
+[
+  {
+    "EventName": "Thanks for the Lesson",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Wanna Eat Together?",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Failed training (Don't Overdo It!)",
+    "Options": {
+      "Option 1": "Energy 10, Stat -30",
+      "Option 2": "Energy 5, Stat -15"
+    }
+  },
+  {
+    "EventName": "Extra Training",
+    "Options": {
+      "Option 1": "Energy -5, Stat 5",
+      "Option 2": "Energy 5, Stat 0"
+    }
+  },
+  {
+    "EventName": "New Year's Resolutions",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 20, Stat 0",
+      "Option 3": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "New Year's Shrine Visit",
+    "Options": {
+      "Option 1": "Energy 30, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Acupuncture (Just an Acupuncturist, No Worries! )",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy -10, Stat 0",
+      "Option 3": "Energy 16, Stat 0",
+      "Option 4": "Energy 5, Stat 0",
+      "Option 5": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "G1 (1st)",
+    "Options": {
+      "Option 1": "Energy -15, Stat 10",
+      "Option 2": "Energy -5, Stat 10"
+    }
+  },
+  {
+    "EventName": "G1 (2nd-5th)",
+    "Options": {
+      "Option 1": "Energy -20, Stat 8",
+      "Option 2": "Energy -10, Stat 8"
+    }
+  },
+  {
+    "EventName": "G1 (6th or worse)",
+    "Options": {
+      "Option 1": "Energy -25, Stat 4",
+      "Option 2": "Energy -15, Stat 4"
+    }
+  },
+  {
+    "EventName": "G2G3 (1st)",
+    "Options": {
+      "Option 1": "Energy -15, Stat 8",
+      "Option 2": "Energy -5, Stat 8"
+    }
+  },
+  {
+    "EventName": "G2G3 (2nd-5th)",
+    "Options": {
+      "Option 1": "Energy -20, Stat 5",
+      "Option 2": "Energy -10, Stat 5"
+    }
+  },
+  {
+    "EventName": "G2G3 (6th or worse)",
+    "Options": {
+      "Option 1": "Energy -25, Stat 3",
+      "Option 2": "Energy -15, Stat 3"
+    }
+  },
+  {
+    "EventName": "OPPre-OP (1st)",
+    "Options": {
+      "Option 1": "Energy -15, Stat 5",
+      "Option 2": "Energy -5, Stat 5"
+    }
+  },
+  {
+    "EventName": "OPPre-OP (2nd-5th)",
+    "Options": {
+      "Option 1": "Energy -20, Stat 3",
+      "Option 2": "Energy -10, Stat 3"
+    }
+  },
+  {
+    "EventName": "OPPre-OP (6th or worse)",
+    "Options": {
+      "Option 1": "Energy -25, Stat 0",
+      "Option 2": "Energy -15, Stat 0"
+    }
+  },
+  {
+    "EventName": "Rivals on Paper, Friends in Practice",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "The Secret to Teio Tenacity",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Empress vs Monarch",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Cupcakes for All",
+    "Options": {
+      "Option 1": "Energy 5, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Teio's Warrior Training",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Secret to Strength",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "My Roommate's Concern",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "My Family Make a Difficult Decision",
+    "Options": {
+      "Option 1": "Energy 0, Stat 20",
+      "Option 2": "Energy 0, Stat 21"
+    }
+  },
+  {
+    "EventName": "My Rival, No Matter the Stage",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "It's Called a Sea Pineapple!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Cooking Up Memories",
+    "Options": {
+      "Option 1": "Energy 15, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Allure of Racecourse Food",
+    "Options": {
+      "Option 1": "Energy 30, Stat 0",
+      "Option 2": "Energy 0, Stat 15"
+    }
+  },
+  {
+    "EventName": "Attack of the Chestnut Feast!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Two Tickets for the Silver Screen",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "Three Ramen Bowls' Worth of Temptation",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Battle With a Raging Dragon",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Banana Fiend",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Operation: Extra Classes",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Operation: Excursion Trouble",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Brutal Training",
+    "Options": {
+      "Option 1": "Energy -10, Stat 520",
+      "Option 2": "Energy 5, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Perfect Dessert",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Strength of Will",
+    "Options": {
+      "Option 1": "Energy 0, Stat 20",
+      "Option 2": "Energy 0, Stat 40"
+    }
+  },
+  {
+    "EventName": "Blinding Beauty",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Bring Me Your Finest",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Battle of Kings: The Great Ramen War",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Evening Opera O Theater",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "How Should I Pose?",
+    "Options": {
+      "Option 1": "Energy 0, Stat 20",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Karaoke Connoisseur",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Early Afternoon Payback",
+    "Options": {
+      "Option 1": "Energy 5, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Putting It Away at the Cafeteria",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Someone I Respect",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Just a Little More",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Party Time",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "On My Heels",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "White Temptation",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Let's Play",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy -5, Stat 15"
+    }
+  },
+  {
+    "EventName": "A Lady's Style",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Nostalgia Fever",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Running on Full",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Oguri's Gluttony Championship",
+    "Options": {
+      "Option 1": "Energy 30, Stat 5",
+      "Option 2": "Energy 10, Stat 5"
+    }
+  },
+  {
+    "EventName": "Bottomless Pit",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Embracing Guidance",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "Harvest Festival",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Serial Riddler",
+    "Options": {
+      "Option 1": "Energy 0, Stat 8",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Taste of Home",
+    "Options": {
+      "Option 1": "Energy 0, Stat 8",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Meaty Heaven",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Rainy Power",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Rainy Rescue",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Let's Patrol!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Emperor's Social Studies",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "The Emperor's Spare Time",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "At Any Time",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "Sudden Kindness",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "As Good As My Word",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Emperor's Satiation",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Training Inspiration",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 5, Stat 0"
+    }
+  },
+  {
+    "EventName": "Looking on the Bright Side",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "A Page about Apples",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Which Did You Lose?",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "My Part-Time Job Is... Crazy?",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "This One's For Keeps!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Killer Appetite!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Showdown by the River!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Awkward Honesty",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Let's Take a Little Detour",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 5, Stat 0"
+    }
+  },
+  {
+    "EventName": "Sugar and Spice",
+    "Options": {
+      "Option 1": "Energy 510, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Recommended Restaurant",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "Enjoying Number One",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Can't Lose Sight of Number One!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "As a Model Student...",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Under the Evening Star",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "How to Spend a Day Off",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "Errands Have Perks",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 5, Stat 5"
+    }
+  },
+  {
+    "EventName": "Beauteaful",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Tracen Karuta Queen",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Together for Tea",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Go for the Extra-Large Pizza!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Hot and Spicy!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Academy at Night",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "Flower Language",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "Operation: Flowerbed",
+    "Options": {
+      "Option 1": "Energy 5, Stat 5",
+      "Option 2": "Energy -10, Stat 20"
+    }
+  },
+  {
+    "EventName": "Seize Her!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy -10, Stat 10"
+    }
+  },
+  {
+    "EventName": "Take Good Care of Your Tail",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy -10, Stat 10"
+    }
+  },
+  {
+    "EventName": "Suggestion Box of Freedom",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy -10, Stat 10"
+    }
+  },
+  {
+    "EventName": "A Taste of Effort",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Tips from a Top Model!",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Maya's Race Class",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Hearty Chanko!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Find the Lost Child!",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "A Dangerous Treat",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Sweet Nighttime Temptation",
+    "Options": {
+      "Option 1": "Energy 30, Stat 10",
+      "Option 2": "Energy 10, Stat 5"
+    }
+  },
+  {
+    "EventName": "For My Friends",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Real Gains",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Rest Day",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Strongest Collaborator?!",
+    "Options": {
+      "Option 1": "Energy -20, Stat 25",
+      "Option 2": "Energy 5, Stat 5"
+    }
+  },
+  {
+    "EventName": "The Pressure of Justice?",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Hamburger Helper!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Rain or Shine",
+    "Options": {
+      "Option 1": "Energy -10, Stat 10",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "A Fresh Perspective",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Full-Power Eating!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Voices of the Students",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Solving Riddles, Bakushin Style!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Bakushin?! Class?!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Looking for Something Important",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Sand Training!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 15, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Final Boss... Spe!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "A Little Detour!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "So Cool!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Cursed Camera",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Manhattan's Dream",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Pretty Gunslingers",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Seven Gods of Fortune Fine Food Tour",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Rainy-Day Fun",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy -10, Stat 20"
+    }
+  },
+  {
+    "EventName": "Not My Style",
+    "Options": {
+      "Option 1": "Energy 5, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Whirlwind Advice",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 15"
+    }
+  },
+  {
+    "EventName": "A Little Can't Hurt",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "The King Knows No Exhaustion",
+    "Options": {
+      "Option 1": "Energy 5, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "First-Rate in Studies Too",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Sweet Tooth Temptation",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Cozy Memories of Wanko Soba",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 4, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Class Rep's Intense Crash Course",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 9"
+    }
+  },
+  {
+    "EventName": "I Wanna Win!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 9"
+    }
+  },
+  {
+    "EventName": "For a Spiffy Concert",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy -10, Stat 15"
+    }
+  },
+  {
+    "EventName": "Aiming for the City Spots",
+    "Options": {
+      "Option 1": "Energy -10, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Paying It Forward",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 7"
+    }
+  },
+  {
+    "EventName": "Ah, Friendship",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "Ah, Home Sweet Home",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Diamond Fixation",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 15, Stat 30"
+    }
+  },
+  {
+    "EventName": "Only for You",
+    "Options": {
+      "Option 1": "Energy -20, Stat 30",
+      "Option 2": "Energy 5, Stat 5"
+    }
+  },
+  {
+    "EventName": "I Love New Things!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy -10, Stat 20"
+    }
+  },
+  {
+    "EventName": "I Love Complicated Things!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Seeking Uniqueness!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 20, Stat 0"
+    }
+  },
+  {
+    "EventName": "Just A Typical Accident?!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Runaway Romance",
+    "Options": {
+      "Option 1": "Energy 10, Stat 10",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "Optimistic Escapism: Never Give Up!",
+    "Options": {
+      "Option 1": "Energy -20, Stat 10",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "An Inescapable Choice?",
+    "Options": {
+      "Option 1": "Energy -15, Stat 20",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "Optimistic Escapism",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "I'm Not Afraid!",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 20, Stat 0"
+    }
+  },
+  {
+    "EventName": "Can't Catch Me!",
+    "Options": {
+      "Option 1": "Energy -10, Stat 25",
+      "Option 2": "Energy 25, Stat 0"
+    }
+  },
+  {
+    "EventName": "Turbo Is Strong!",
+    "Options": {
+      "Option 1": "Energy -20, Stat 30",
+      "Option 2": "Energy 15, Stat 0"
+    }
+  },
+  {
+    "EventName": "Just Start Running!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 20",
+      "Option 2": "Energy -10, Stat 20"
+    }
+  },
+  {
+    "EventName": "I'm All Fired Up!",
+    "Options": {
+      "Option 1": "Energy 15, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "How Should I Respond?",
+    "Options": {
+      "Option 1": "Energy 5, Stat 5",
+      "Option 2": "Energy -10, Stat 15"
+    }
+  },
+  {
+    "EventName": "What I Want to Say",
+    "Options": {
+      "Option 1": "Energy 0, Stat 40",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Conquering the Crowds",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Just a Little Closer",
+    "Options": {
+      "Option 1": "Energy -10, Stat 15",
+      "Option 2": "Energy -10, Stat 0"
+    }
+  },
+  {
+    "EventName": "Watch Where You're Going!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 15"
+    }
+  },
+  {
+    "EventName": "So Many Options!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy -10, Stat 15"
+    }
+  },
+  {
+    "EventName": "A Roller Coaster of Feelings!",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 20, Stat 10"
+    }
+  },
+  {
+    "EventName": "What Should I Do?",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "My Way, Or...",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 15"
+    }
+  },
+  {
+    "EventName": "My Weapon",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Adventurer Gold Ship",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Revive the Brand! Golshi's Yakisoba",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Coolest Line",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "Enemies on Main Street",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "A Moment's Respite",
+    "Options": {
+      "Option 1": "Energy 15, Stat 0",
+      "Option 2": "Energy -10, Stat 35"
+    }
+  },
+  {
+    "EventName": "Uma-me",
+    "Options": {
+      "Option 1": "Energy 30, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Blazing Fire!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy -10, Stat 20"
+    }
+  },
+  {
+    "EventName": "Secret Notebook!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Be Strategic ",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Recruiting Cat Catchers",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy -10, Stat 20"
+    }
+  },
+  {
+    "EventName": "Recruiting Advisors",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "A Battle I Can't Lose!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Lovely Training Weather ",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 15",
+      "Option 3": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Wonderful New Shoes",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy -10, Stat 5"
+    }
+  },
+  {
+    "EventName": "Reminiscent Clover",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 15"
+    }
+  },
+  {
+    "EventName": "It's a Game of Tag!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Full-Power Muscles!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "//Verification Required",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy -10, Stat 15"
+    }
+  },
+  {
+    "EventName": "//Absolute Desire",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 4, Stat 5"
+    }
+  },
+  {
+    "EventName": "08:36 / Crap, I Overslept",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 10, Stat 5"
+    }
+  },
+  {
+    "EventName": "Enough to Break into a Dash!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy -10, Stat 15"
+    }
+  },
+  {
+    "EventName": "Leave it to Me to Help Out! ",
+    "Options": {
+      "Option 1": "Energy 15, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Leave it to Me to Be Considerate! ",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 10, Stat 5"
+    }
+  },
+  {
+    "EventName": "Always on Stage ",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 25, Stat 0"
+    }
+  },
+  {
+    "EventName": "If I'm Cute, Come to My Show! ",
+    "Options": {
+      "Option 1": "Energy -10, Stat 10",
+      "Option 2": "Energy 10, Stat 5"
+    }
+  },
+  {
+    "EventName": "Aspiring to Adulthood",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "Warmth, Love, and Lunch",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 20, Stat 0"
+    }
+  },
+  {
+    "EventName": "Urara's  Study Review",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "Urara's  Long Shot Dash!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 10, Stat 0"
+    }
+  },
+  {
+    "EventName": "A Hero's Woes",
+    "Options": {
+      "Option 1": "Energy 15, Stat 0",
+      "Option 2": "Energy 5, Stat 5"
+    }
+  },
+  {
+    "EventName": "Preparing My Special Move!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Memories of Cinema",
+    "Options": {
+      "Option 1": "Energy 32, Stat 6",
+      "Option 2": "Energy 0, Stat 24"
+    }
+  },
+  {
+    "EventName": "My Chosen Way of Life",
+    "Options": {
+      "Option 1": "Energy 13, Stat 0",
+      "Option 2": "Energy 0, Stat 6"
+    }
+  },
+  {
+    "EventName": "Enthusiastic Pair",
+    "Options": {
+      "Option 1": "Energy 13, Stat 6",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "To Maintain My Weight",
+    "Options": {
+      "Option 1": "Energy -10, Stat 15",
+      "Option 2": "Energy 4, Stat 5"
+    }
+  },
+  {
+    "EventName": "To Reach the Greatest Heights",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "A Page of Flower Shop Assistance",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "A Page About Cloudy Weather",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Chasing Their Backs",
+    "Options": {
+      "Option 1": "Energy 5, Stat 3",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Not like Meow",
+    "Options": {
+      "Option 1": "Energy 20, Stat 0",
+      "Option 2": "Energy 10, Stat 5"
+    }
+  },
+  {
+    "EventName": "Burden",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 4, Stat 0"
+    }
+  },
+  {
+    "EventName": "Ikuno-Style Flawless Method",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Ikuno-Style Management",
+    "Options": {
+      "Option 1": "Energy 0, Stat 20",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "#LOL #Party! #Round2",
+    "Options": {
+      "Option 1": "Energy 0, Stat 20",
+      "Option 2": "Energy 20, Stat 0"
+    }
+  },
+  {
+    "EventName": "Encounter With the Sun ",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Smiles Forever",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Some Very Green Friends",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Premeditated Mischief",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Miracle  Escape!",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy -10, Stat 20"
+    }
+  },
+  {
+    "EventName": "Wonderful  Mistake!",
+    "Options": {
+      "Option 1": "Energy -35, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "I'm Going to Win Tomorrow!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "This Is Nothing!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 20, Stat 0"
+    }
+  },
+  {
+    "EventName": "Hishiama's Struggles: Problem Children",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy -10, Stat 15"
+    }
+  },
+  {
+    "EventName": "Hishiama's Struggles: Final Stretch",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "Strict but Gracious",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 10, Stat 10"
+    }
+  },
+  {
+    "EventName": "Umamusume Deficiency!",
+    "Options": {
+      "Option 1": "Energy 5, Stat 5",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Last-Minute Modal Theory",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Step-Out-of-Your-Comfort-Zone Theory",
+    "Options": {
+      "Option 1": "Energy -10, Stat 0",
+      "Option 2": "Energy 10, Stat 10"
+    }
+  },
+  {
+    "EventName": "Fashion Advice for Mayano!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Solo Nighttime Run",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 10, Stat 5"
+    }
+  },
+  {
+    "EventName": "A Taste of Silence",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "I'm Not a Cyborg",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy -10, Stat 0"
+    }
+  },
+  {
+    "EventName": "Do No Harm",
+    "Options": {
+      "Option 1": "Energy -10, Stat 20",
+      "Option 2": "Energy 10, Stat 5"
+    }
+  },
+  {
+    "EventName": "Orders Must Be Followed",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "My Muscles and Me, Onward to Tomorrow!",
+    "Options": {
+      "Option 1": "Energy -10, Stat 15",
+      "Option 2": "Energy 4, Stat 5"
+    }
+  },
+  {
+    "EventName": "It's Not Like I Like Romance!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 30, Stat 0"
+    }
+  },
+  {
+    "EventName": "Happenstance Introduced Through Intervention",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Unforeseen Lunch",
+    "Options": {
+      "Option 1": "Energy 15, Stat 0",
+      "Option 2": "Energy 0, Stat 10"
+    }
+  },
+  {
+    "EventName": "Responding to the Unforeseen",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Marvelous, No Question ",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy 0, Stat 5"
+    }
+  },
+  {
+    "EventName": "How To Be More Marvelous ",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Guidance and Friends",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy -10, Stat 0"
+    }
+  },
+  {
+    "EventName": "Maximum Spirituality",
+    "Options": {
+      "Option 1": "Energy 0, Stat 5",
+      "Option 2": "Energy -10, Stat 15"
+    }
+  },
+  {
+    "EventName": "When Piety and Kindness Intersect",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 20, Stat 0"
+    }
+  },
+  {
+    "EventName": "What I'm Destined For...",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy -6, Stat 15"
+    }
+  },
+  {
+    "EventName": "I... Will Change",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 15"
+    }
+  },
+  {
+    "EventName": "Please... Buy Some Carrots",
+    "Options": {
+      "Option 1": "Energy 10, Stat 5",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Give It a Try",
+    "Options": {
+      "Option 1": "Energy 15, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "You May Socialize With Me!",
+    "Options": {
+      "Option 1": "Energy -20, Stat 25",
+      "Option 2": "Energy 0, Stat 25"
+    }
+  },
+  {
+    "EventName": "You May Advise Me!",
+    "Options": {
+      "Option 1": "Energy 0, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "How I Play at the Park",
+    "Options": {
+      "Option 1": "Energy 32, Stat 6",
+      "Option 2": "Energy 0, Stat 6"
+    }
+  },
+  {
+    "EventName": "Trainer Tip: Always Improve Your Coaching",
+    "Options": {
+      "Option 1": "Energy 13, Stat 0",
+      "Option 2": "Energy 0, Stat 12"
+    }
+  },
+  {
+    "EventName": "The Search for a Hobby",
+    "Options": {
+      "Option 1": "Energy 26, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "For an Adorable Younger Student",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 5, Stat 10"
+    }
+  },
+  {
+    "EventName": "Yeehaw! Party Tonight ",
+    "Options": {
+      "Option 1": "Energy -10, Stat 15",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "Beyond Our Limited Time",
+    "Options": {
+      "Option 1": "Energy 10, Stat 0",
+      "Option 2": "Energy 0, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Emperor's Encouragement",
+    "Options": {
+      "Option 1": "Energy 0, Stat 10",
+      "Option 2": "Energy -10, Stat 0"
+    }
+  },
+  {
+    "EventName": "The Student Council President's Thoughtfulness",
+    "Options": {
+      "Option 1": "Energy 0, Stat 0",
+      "Option 2": "Energy 0, Stat 15"
+    }
+  }
+]
